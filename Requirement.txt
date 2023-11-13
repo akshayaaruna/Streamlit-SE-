@@ -1,0 +1,5 @@
+pandas=2.1.2=pypi_0
+numpy=1.26.1=pypi_0
+plotly=5.18.0=pypi_0
+streamlit=1.28.1=pypi_0
+streamlit-option-menu=0.3.6=pypi_0
